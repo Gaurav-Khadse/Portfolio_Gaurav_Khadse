@@ -1,6 +1,6 @@
 
 
-# Portfolio- Gaurav Khadse
+# Portfolio - Gaurav Khadse
 <p>Welcome to my GitHub project repository, where I have meticulously curated a collection of my data-related endeavors. Within these digital pages, you'll find a comprehensive overview of my projects, showcasing my skills and experiences in the realm of data analysis. </p>
 <h2>CONTENTS📝</h2>
 <ul>
