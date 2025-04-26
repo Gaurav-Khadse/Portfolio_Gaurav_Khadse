@@ -14,7 +14,7 @@
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/Gaurav-Khadse/Spotify_Data_Analysis_SQL">Spotify Data Anaysis SQL🏆</a><br> | "#Spotify Data Anaysis SQL" : Solutions for a thrilling project that offers weekly SQL case studies! Engaged in real-world data analysis with interactive challenges.<br><p><ul><li>Tools Used🛠️ : MySQLWorkbench</li></ul></p> | 
+| <a href="https://github.com/Gaurav-Khadse/Spotify_Data_Analysis_SQL">Spotify Data Anaysis SQL🏆</a><br> | "#Spotify Data Anaysis SQL" : The Spotify Data Analysis Project showcases data's role in diverse fields, using SQL and its functions such as SUM, GROUP BY, ORDER BY, RANK, and LIMIT within the MySQL Workbench environment. It explores music-related datasets, highlighting data's influence on decisions, research, and prediction, while honing technical skills and industry insights.<br><p><ul><li>Tools Used🛠️ : MySQLWorkbench</li></ul></p> | 
 | <a href="https://github.com/Gaurav-Khadse/8_Week_SQL_challenge">8 Week SQL challenge🏆</a><br> | "#8WeekSQLChallenge" : Solutions for a thrilling project that offers weekly SQL case studies! Engaged in real-world data analysis with interactive challenges.<br><p><ul><li>Tools Used🛠️ : MySQLWorkbench</li></ul></p> | 
 
 
