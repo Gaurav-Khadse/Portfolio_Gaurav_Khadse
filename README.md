@@ -5,6 +5,7 @@
 <h2>CONTENTS📝</h2>
 <ul>
   <li><a href="#sql">SQL</a></li>
+  <li><a href="#Excel">Excel</a></li>
    <li><a href="#python">Python</a></li>
    <li><a href="#powerbi">Power BI</a></li>
    <li><a href="#tableau">Tableau</a></li>
