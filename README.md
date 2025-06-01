@@ -23,7 +23,7 @@
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/Gaurav-Khadse/Online_Store_Annual_Excel_Report.">Online Store Annual Report - Excel Report.🛒</a><br> | "#Online Store Annual Report - Excel Report" : The Spotify Data Analysis Project showcases data's role in diverse fields, using SQL and its functions such as SUM, GROUP BY, ORDER BY, RANK, and LIMIT within the MySQL Workbench environment.It explores music-related datasets, highlighting data's influence on decisions, research, and prediction, while honing technical skills and industry insights.<br><p><ul><li>Tools Used🛠️ : Microsoft Excel</li></ul></p> | 
+| <a href="https://github.com/Gaurav-Khadse/Online_Store_Annual_Excel_Report.">Online Store Annual Report - Excel Report.🛒</a><br> | "#Online Store Annual Report - Excel Report" : The Online Store Annual Report project highlights the power of Excel in business analytics by using pivot tables, slicers, and data visualization tools such as bar charts, pie charts, and combo charts. It explores annual sales data across different states, age groups, genders, and sales channels, providing key insights into customer behavior and market performance. This project strengthens skills in Excel-based reporting, visual storytelling, and data-driven decision-making for e-commerce strategy.<br><p><ul><li>Tools Used🛠️ : Microsoft Excel</li></ul></p> | 
 
 
 
