@@ -50,6 +50,13 @@
 
 <h1><a name="tableau">Tableau</a></h1>
 
+
 | Project Link | Description |
 | ------------ | ------------| 
 | <a href="https://github.com/Mariyajoseph24/Amazon_Sales_India_Tableau_Dashboard">Amazon Sales India Tableau Dashboard💰</a><br> | "Amazon Sales India Tableau Dashboard" project dives deep into Amazon's sales data, offering detailed insights into SKU codes, designs, stock, categories, sizes, colors, and more. This dashboard is a valuable tool for unraveling the complexities of Amazon's operations in India and making data-driven decisions to maximize profitability.<br><p><ul><li>Tools Used🛠️ : Tableau</li></ul></p> | 
+
+
+
+| Project Link | Description |
+| ------------ | ------------| 
+| <a href="https://github.com/Gaurav-Khadse/Cricket_Match_Tableau_Dashboard">Cricket Match Tableau Dashboard💰</a><br> | "Cricket Match Tableau Dashboard" The Best Bowlers Tableau Dashboard visualizes the achievements of cricket’s greatest bowlers through Test match statistics. Built with Tableau, it highlights key metrics such as 5-wicket and 10-wicket hauls, matches played, best match figures, most wickets, and balls bowled. It is a tribute to the legends who redefined the art of bowling..<br><p><ul><li>Tools Used🛠️ : Tableau</li></ul></p> | 
