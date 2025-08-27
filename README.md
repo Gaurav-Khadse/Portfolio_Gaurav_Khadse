@@ -45,9 +45,7 @@
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/Mariyajoseph24/Netflix_PowerBI_Dashboard">Netflix PowerBI Dashboard📺</a><br> | "Netflix Power BI Dashboard" delves deep into this ever-expanding universe of entertainment, providing valuable insights and illuminating patterns that can steer content strategies and viewer engagement.<br><p><ul><li>Tool used🛠️: Power BI🛠</li></p>| 
-| <a href="https://github.com/Mariyajoseph24/Superstore_PowerBI_Dashboard">Superstore PowerBI Dashboard🏪</a><br> | "Superstore Power BI Dashboard" project is dedicated to unraveling the secrets hidden within the Superstore's data treasure trove, offering insights that will guide the organization towards targeted growth, enhanced profitability, and superior decision-making<ul><li>Tool used🛠️: Power BI</li></p> | 
-| <a href="https://github.com/Gaurav-Khadse/Virat-Kohli-ODI-T20-Performance-Dashboard">Virat-Kohli-ODI-T20-Performance-Dashboard🏪</a><br> | "Virat-Kohli-ODI-T20-Performance-Dashboard" project is dedicated to unraveling the secrets hidden within the Superstore's data treasure trove, offering insights that will guide the organization towards targeted growth, enhanced profitability, and superior decision-making<ul><li>Tool used🛠️: Power BI</li></p> | 
+| <a href="https://github.com/Gaurav-Khadse/Virat-Kohli-ODI-T20-Performance-Dashboard">Virat-Kohli-ODI-T20-Performance-Dashboard🏪</a><br> | "Virat-Kohli-ODI-T20-Performance-Dashboard" This project showcases an interactive Power BI dashboard analyzing Virat Kohli’s ODI and T20 career performance. It highlights total runs, top-performing grounds, opponent-wise stats, year-wise trends, and match summaries using rich data visualizations. Ideal for cricket fans, analysts, and data visualization enthusiasts.<ul><li>Tool used🛠️: Power BI</li></p> | 
 
 
 
