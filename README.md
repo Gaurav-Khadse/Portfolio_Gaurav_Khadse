@@ -62,16 +62,7 @@
 | Project Link | Description |
 | ------------ | ------------| 
 | <a href="https://github.com/Gaurav-Khadse/Cricket-Match-Tableau-Dashboard">Cricket Match Tableau Dashboard💰</a><br> | "Cricket Match Tableau Dashboard" The Cricket Match Tableau Dashboard visualizes the achievements of cricket’s greatest bowlers through Test match statistics. Built with Tableau, it highlights key metrics such as 5-wicket and 10-wicket hauls, matches played, best match figures, most wickets, and balls bowled. It is a tribute to the legends who redefined the art of bowling..<br><p><ul><li>Tools Used🛠️ : Tableau</li></ul></p> | 
-
-
-
-| Project Link | Description |
-| ------------ | ------------| 
 | <a href="https://github.com/Gaurav-Khadse/Fifa_worldCup_Tableau_Dashboard/blob/main/README.md">FIFA World Cup Tableau Dashboard⚽</a><br> | "FIFA World Cup Tableau Dashboard" Football is the world’s most celebrated sport, and the FIFA World Cup represents its ultimate stage. The FIFA World Cup Tableau Dashboard provides a data-driven perspective on countries that have shaped football history by winning, hosting, and participating in the tournament.This project captures the legacy of nations like Brazil, Italy, Germany, Argentina, France, and Uruguay, offering insights into their consistency, dominance, and contributions across different eras (1930–2014). From the number of wins and hosted tournaments to qualification frequency and competition stats, the dashboard offers a complete view of World Cup history...<br><p><ul><li>Tools Used🛠️ : Tableau</li></ul></p> | 
-
-
-| Project Link | Description |
-| ------------ | ------------| 
 | <a href="https://github.com/Gaurav-Khadse/HR_Analytics_Dashboard/blob/main/README.md">HR Analytics Dashboard 🎯 </a><br> | "HR Analytics Dashboard" The HR Analytics Dashboard is an interactive Tableau project designed to evaluate workforce demographics, attrition trends, job satisfaction, and departmental performance. By transforming raw HR data into easy-to-interpret visual insights, this dashboard supports HR leaders, talent managers, and data analysts in making evidence-based workforce decisions.This solution provides a clear understanding of attrition behavior, employee distribution, and satisfaction levels, enabling organizations to identify problem areas, improve retention, and build stronger workforce strategies..<br><p><ul><li>Tools Used🛠️ : Tableau</li></ul></p> | 
 
 
